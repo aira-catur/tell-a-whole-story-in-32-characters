@@ -1,5 +1,7 @@
 # Tell a Whole Story in 32 Characters
 
+Entry note: a whole proposal story in 28 characters — he knelt, she gave the wrong password; the rejection is native to the Wi-Fi-name medium itself.
+
 A make.fun entry for [Tell a Whole Story in 32 Characters](https://make.fun/bounty/u-xvader-tell-a-whole-story-in-32-characters-f86dd978): a single Wi-Fi network name of at most 32 characters that lands a joke and implies a whole story — he got down on one knee to propose, and her answer was a wrong Wi-Fi password.
 
 The program writes the name to `entry.txt` in the output directory (`MAKEFUN_OUTPUT_DIR`, default `/output`), with no trailing newline:
